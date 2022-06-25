@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "Note": "This is just  sample flight others are generated dynamically by clients.",
+        "title": "flight to canada",
+        "time": "1pm",
+        "price": 26000
+    }
+]
